@@ -5,7 +5,7 @@ YouTube videos:
 
 https://youtu.be/V1KBm99Qagw
 
-https://youtu.be/KwtkfmglT-c
+https://youtu.be/rtnI4TEeBpA
 
 Significantly optimized for STM32 boards. Supports 36MHz SPI and DMA channel
 
