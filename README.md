@@ -40,3 +40,5 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
  |#07| GND | GND|
  |#08| VCC | 3.3V|
  
+ Tested with stm32duino and Arduino IDE 1.6.5
+ 
