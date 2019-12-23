@@ -29,7 +29,7 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
 
 ## Connections (header at the top):
 
-|LCD pin|LCD pin name|Arduino|
+|LCD pin|LCD pin name|STM32|
 |--|--|--|
  |#01| LED| 3.3V|
  |#02| SCK |PA5/SCK|
