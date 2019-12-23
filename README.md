@@ -27,7 +27,7 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
 - fast drawImage() from RAM
 - fast drawImageF() from flash (PROGMEM)
 
-## Connections (header on top):
+## Connections (header at the top):
 
 |LCD pin|LCD pin name|Arduino|
 |--|--|--|
